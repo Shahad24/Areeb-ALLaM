@@ -32,5 +32,7 @@ You need to add your credentials in these files, such as API keys or any require
 ### Running the App
    ```bash
    uvicorn main:app --reload --port 8888 --host localhost
+  ```
 
+**Note:** Due to the large size of the frontend application, we cannot push it to GitHub. However, you can find it [here](https://drive.google.com/file/d/1FkFgHRZNHuA36lBJMFktrljxmsE5OGqq/view?usp=sharing)
 
