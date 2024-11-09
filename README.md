@@ -6,8 +6,8 @@ Follow these steps to set up and run the backend of the project:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [<repository_url>](https://github.com/Shahad24/Areeb-ALLaM.git)
-   cd <project_folder>
+   git clone https://github.com/Shahad24/Areeb-ALLaM.git
+   cd Areeb-ALLaM
 
 
 2. Create a Conda environment to isolate dependencies:
