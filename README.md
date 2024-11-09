@@ -1,5 +1,5 @@
 # Areeb-ALLaM
-Areeb is an interactive app designed for children to help them learn and engage with **ALLaM**, an Arabic large language model. It was developed during the Allam Hackathon 2024.
+Areeb is an interactive app designed for children to help them learn and engage with **ALLaM**, an Arabic large language model. It was developed during the ALLaM Hackathon 2024.
 
 ## Installation
 Follow these steps to set up and run the backend of the project:
